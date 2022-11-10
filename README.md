@@ -8,7 +8,7 @@ I'm currently working on [google-api-support](https://github.com/vperezb/google-
 
 I like to program in Python to do watever I've done more than 2 times manually.
 
-When I don't know how to doit I usually end in StackOverflow. If there's no anser I keep searching and I post the answer when I found it. Here's my [StackOverflow profile](https://stackoverflow.com/users/6109224/vperezb).
+When I don't know how to doit I usually end in StackOverflow. If there's no answer I keep searching and I post the answer when I found it. Here's my [StackOverflow](https://stackoverflow.com/users/6109224/vperezb) profile.
 
 To publish more complex solutions, I started to write in my [Github](https://github.com/vperezb) page but also on [Medium](https://medium.com/@victor.perez.berruezo) (I need to choose which one I want to keep and migrate everything else).
 
