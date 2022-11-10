@@ -1,6 +1,6 @@
 # Víctor Pérez Berruezo
 
-I like to keep thinks as simple as possible "✨AsAP✨".
+I like to keep thinks as Simple as possible "✨aSap✨".
 
 I usually get involved in more projects than time I have.
 
