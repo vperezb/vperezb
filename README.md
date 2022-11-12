@@ -17,3 +17,7 @@ I also contribute in the Catalan translation of [Proton](https://proton.me/) ser
 You can reach me on [LinkedIn](https://www.linkedin.com/in/vperezb-) to check full professional-"work" background
 
 And more privately at vperezb+contact@proton.me.
+
+## Projects I support
+
+* [Sòl Ben Moll](https://solbenmoll.com/) A Farm-to-Table project to deliver season fruit and vegetables every week.
