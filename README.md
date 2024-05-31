@@ -20,6 +20,5 @@ And more privately at vperezb+contact@proton.me.
 
 ## Projects I support
 
-* [Sòl Ben Moll](https://solbenmoll.com/) | A Farm-to-Table project to deliver season fruit and vegetables every week.
 * [Irídia](https://iridia.cat/es/) | An association that works in Catalonia to defend human rights, primarily civil and political.
 * [La Directa](https://directa.cat/) | Independent media company focused on debate, investigation and analysis. 
