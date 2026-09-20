@@ -1,0 +1,160 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "Víctor Pérez Berruezo - Skills & Competency Matrix",
+  "version": "2.1.0",
+  "lastModified": "2026-09-20",
+  "categories": [
+    {
+      "name": "Technical Product Management & Architecture",
+      "skills": [
+        {
+          "name": "Technical Product Management",
+          "level": "Expert",
+          "years": 9,
+          "focus": ["Full-cycle product delivery", "API design", "Cross-functional squad orchestration", "Business & technical alignment", "SLA & KPI tracking"],
+          "evidence": ["CaixaBank Tech (Facilitea, faciliteacoches.com)", "Tiendeo (bcnmarket, Tiendeo App)"]
+        },
+        {
+          "name": "Agile & Process Modeling",
+          "level": "Expert",
+          "years": 8,
+          "focus": ["Scrum", "Kanban", "User Story Mapping", "BPMN process design", "Sprint Planning"],
+          "evidence": ["CaixaBank Tech", "Tiendeo Product Management"]
+        },
+        {
+          "name": "Architecture & Microservices",
+          "level": "Advanced",
+          "years": 7,
+          "focus": ["Event-driven architectures", "RESTful API design", "Asynchronous messaging", "Service decoupling"],
+          "evidence": ["faciliteacoches.com", "bcnmarket high-concurrency cloud architecture", "aws-ip-change-tracker"]
+        }
+      ]
+    },
+    {
+      "name": "Fintech & Banking Integrations",
+      "skills": [
+        {
+          "name": "Payment Solutions & Checkouts",
+          "level": "Expert",
+          "years": 4,
+          "focus": ["Checkout flows", "GlobalPayments solutions", "Credit card processing", "Transaction reconciliation"],
+          "evidence": ["CaixaBank Tech (Checkouts IT Project Manager)"]
+        },
+        {
+          "name": "Banking Services Integration",
+          "level": "Expert",
+          "years": 4,
+          "focus": ["Consumer financing & loans", "Automated risk scoring systems", "Insurance calculation engines"],
+          "evidence": ["faciliteacoches.com (integrated loan calculation and risk scoring)"]
+        }
+      ]
+    },
+    {
+      "name": "Programming Languages & Backend",
+      "skills": [
+        {
+          "name": "Python",
+          "level": "Expert",
+          "years": 8,
+          "focus": ["Flask", "FastAPI", "Pandas", "API wrappers", "Package publishing (PyPI)", "Data ETL", "AsyncIO"],
+          "evidence": ["google-api-support (PyPI)", "bibliodetect", "aws-ip-change-tracker", "UPC final degree project"]
+        },
+        {
+          "name": "SQL & Relational Databases",
+          "level": "Advanced",
+          "years": 7,
+          "focus": ["PostgreSQL", "Supabase", "CIDR network types", "GiST indexing", "ETL query optimization"],
+          "evidence": ["aws-ip-change-tracker", "Tiendeo Tech analytics pipelines"]
+        },
+        {
+          "name": "NoSQL & Document Stores",
+          "level": "Advanced",
+          "years": 5,
+          "focus": ["Google Cloud Datastore", "Firestore", "Schema design for high throughput"],
+          "evidence": ["faciliteacoches.com (Google Cloud Datastore)", "bcnmarket high-throughput transaction platform"]
+        },
+        {
+          "name": "Web & Scripting",
+          "level": "Intermediate-Advanced",
+          "years": 6,
+          "focus": ["JavaScript / TypeScript", "HTML5", "CSS", "Bash / Shell scripting", "Google Apps Script"],
+          "evidence": ["Marketplace web UIs", "Deployment automation"]
+        }
+      ]
+    },
+    {
+      "name": "Cloud Ecosystems & Infrastructure",
+      "skills": [
+        {
+          "name": "Google Cloud Platform (GCP)",
+          "level": "Advanced",
+          "focus": ["Cloud Functions Gen2", "Cloud Run", "App Engine", "Cloud Datastore", "Cloud Storage", "IAM & Service Accounts"],
+          "evidence": ["google-api-support", "bcnmarket cloud architecture", "Tiendeo automated reporting pipelines"]
+        },
+        {
+          "name": "Amazon Web Services (AWS)",
+          "level": "Intermediate-Advanced",
+          "focus": ["AWS Lambda", "SNS", "EventBridge", "S3", "IAM Security"],
+          "evidence": ["aws-ip-change-tracker", "Medium S3 automation articles"]
+        },
+        {
+          "name": "Google Workspace & Productivity APIs",
+          "level": "Expert",
+          "focus": ["Google Sheets API (bidirectional pandas sync)", "Google Slides API (deck generation)", "Drive API", "Gmail API"],
+          "evidence": ["google-api-support (PyPI)", "Tiendeo automated reporting"]
+        }
+      ]
+    },
+    {
+      "name": "Mobile, Growth & Analytics",
+      "skills": [
+        {
+          "name": "Mobile Lifecycle & Notifications",
+          "level": "Advanced",
+          "focus": ["Firebase Cloud Messaging", "Geofences", "DeepLink routing", "Mobile App Store optimization (4.5 rating)"],
+          "evidence": ["Tiendeo App overhaul on iOS & Android"]
+        },
+        {
+          "name": "Analytics & BI",
+          "level": "Advanced",
+          "focus": ["Google Data Studio", "JupyterLab", "Pandas", "Technical SEO"],
+          "evidence": ["Tiendeo reporting automation", "SEO across multi-country domains"]
+        }
+      ]
+    },
+    {
+      "name": "AI, Computer Vision & Modern Developer Tooling",
+      "skills": [
+        {
+          "name": "AI Coding & Modern Tooling",
+          "level": "Advanced",
+          "focus": ["Cursor", "GitHub Copilot", "Agentic context workflows", "Prompt engineering"],
+          "evidence": ["AI-accelerated project workflows", "Custom agent instructions"]
+        },
+        {
+          "name": "Computer Vision & OCR",
+          "level": "Advanced",
+          "focus": ["YOLOv8 (Ultralytics)", "EasyOCR (PyTorch)", "OpenCV", "Object detection & text transcription"],
+          "evidence": ["bibliodetect", "libripolis.com AI book recognition"]
+        }
+      ]
+    },
+    {
+      "name": "Core Engineering Principles",
+      "skills": [
+        {
+          "name": "Pragmatic Simplicity (ASAP)",
+          "description": "Keeping systems as simple as possible; avoiding premature complexity in favor of maintainability and fast delivery."
+        },
+        {
+          "name": "Relentless Automation (Rule of 2)",
+          "description": "Any task or pipeline performed manually more than twice gets automated via code or serverless scripts."
+        },
+        {
+          "name": "Mathematical & Engineering Rigor",
+          "description": "Rooted in Industrial Engineering (ETSEIB-UPC) and the ESTALMAT Program for mathematical talent."
+        }
+      ]
+    }
+  ]
+}

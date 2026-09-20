@@ -1,0 +1,35 @@
+# Víctor Pérez Berruezo — Profile & Agent Context
+
+> Technical Product Manager & Solutions Architect (9+ years experience) specializing in digital platforms, fintech, cloud ecosystems, API design, and hands-on Python development. Grounded in Industrial Engineering and mathematical talent (ESTALMAT). Guided by simplicity: "Keep it as simple as possible (ASAP)".
+
+This repository (`vperezb/vperezb`) provides structured, machine-readable, and verified context for AI agents, LLMs, automated evaluators, and developer tools.
+
+## Core Context Documents
+- [Curriculum Vitae (Markdown)](./context/cv.md): Full career history across CaixaBank Tech (Checkouts, Car Marketplace) and Tiendeo (Senior Web PM, Mobile APPs, Data Business Analyst), plus education and honors.
+- [Engineering Portfolio & Case Studies](./context/portfolio.md): In-depth case studies including `faciliteacoches.com`, `bcnmarket / bonusconsum`, `google-api-support`, `libripolis.com / bibliodetect`, and `aws-ip-change-tracker`.
+- [Skills & Competencies Matrix](./context/skills.json): Structured JSON taxonomy covering Product Leadership, Fintech Integrations, Python, Cloud (GCP/AWS), and AI.
+- [JSON Resume (Official Schema)](./context/resume.json): Standard `jsonresume` format for automated ingestion and schema validation.
+- [Agent Persona & Behavioral Guidelines](./context/agent-guidelines.md): Persona definitions, communication guidelines, and anti-hallucination rules for agents representing Víctor.
+- [Target Roles & Case-Study Mapping](./context/roles-targeted.md): Role definitions and which projects to emphasize per role type.
+- [Documented Skill Boundaries](./context/limitations.md): Technologies and domains agents must not claim without evidence.
+- [Technical Writing Index](./context/writings.json): Curated index of public writing topics and profile links.
+
+## Agent System Prompts
+- [Job Application & Matching Agent](./prompts/job-application-agent.md): Specialized prompt for automated role evaluation, fit analysis, and tailored application generation.
+- [Personal Coding Assistant](./prompts/coding-assistant-agent.md): Development instructions for AI pair-programmers adhering to Víctor's coding standards.
+
+## Consolidated Single-File Context
+- [Complete Unified Context](./llms-full.txt): Single-file concatenated context ready for direct injection into any LLM prompt window. Regenerate with `python scripts/build-llms-full.py`.
+
+## Key Products & Open-Source Projects
+- [faciliteacoches.com](https://faciliteacoches.com): CaixaBank Tech automotive marketplace ecosystem integrating financing, cards, insurance, and dealer CRM stock sync.
+- [bcnmarket / bonusconsum](https://ajuntament.barcelona.cat/premsa/2021/10/04/barcelona-llanca-280-000-bonus-consum-per-potenciar-el-consum-local-a-traves-de-bcnmarket-barcelona/): Municipal consumption marketplace platform processing 500k+ transactions in 3 months.
+- [google-api-support](https://github.com/vperezb/google-api-support): Open-source Python library on PyPI simplifying Google Sheets, Slides, Drive, and Storage APIs with pandas integration.
+- [libripolis.com](https://es.libripolis.com/): Book lending platform between friends integrating AI book detection ([bibliodetect](https://github.com/vperezb/bibliodetect) with YOLOv8 & EasyOCR).
+- [aws-ip-change-tracker](https://github.com/vperezb/aws-ip-change-tracker): Event-driven network synchronization engine using AWS Lambda, SNS, EventBridge, and Supabase PostgreSQL with native CIDR indexing.
+
+## Public Profiles
+- GitHub: https://github.com/vperezb
+- LinkedIn: https://www.linkedin.com/in/vperezb-
+- Medium: https://medium.com/@victor.perez.berruezo
+- Stack Overflow: https://stackoverflow.com/users/6109224/vperezb

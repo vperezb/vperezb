@@ -1,0 +1,260 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "version": "1.1.0",
+    "lastModified": "2026-09-20",
+    "canonicalUrl": "https://github.com/vperezb/vperezb"
+  },
+  "basics": {
+    "name": "Víctor Pérez Berruezo",
+    "label": "Technical Product Manager & Solutions Architect",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "https://github.com/vperezb",
+    "summary": "Technical Product Manager with 9+ years across digital platforms, fintech, and cloud ecosystems. Experienced in API design, process improvement, microservices, and full-cycle product delivery with deep hands-on Python/Cloud development experience. Creator of google-api-support on PyPI.",
+    "location": {
+      "countryCode": "ES",
+      "region": "Barcelona, Spain"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "vperezb",
+        "url": "https://github.com/vperezb"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "vperezb-",
+        "url": "https://www.linkedin.com/in/vperezb-"
+      },
+      {
+        "network": "Medium",
+        "username": "victor.perez.berruezo",
+        "url": "https://medium.com/@victor.perez.berruezo"
+      },
+      {
+        "network": "StackOverflow",
+        "username": "vperezb",
+        "url": "https://stackoverflow.com/users/6109224/vperezb"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CaixaBank Tech",
+      "position": "IT Project Manager – Checkouts",
+      "url": "https://www.caixabanktech.com",
+      "startDate": "2025-01-01",
+      "summary": "Responsible for analyzing, designing, and evolving technical solutions within the Facilitea checkout and payment platform.",
+      "highlights": [
+        "Architecting payment and checkout solutions ensuring system integration and compliance with banking standards.",
+        "Aligning technical consistency across core banking services and commercial needs."
+      ]
+    },
+    {
+      "name": "CaixaBank Tech",
+      "position": "IT Project Manager – Car Marketplace (faciliteacoches.com)",
+      "url": "https://faciliteacoches.com",
+      "startDate": "2023-01-01",
+      "endDate": "2025-01-01",
+      "summary": "Led the end-to-end design, development, and deployment of the faciliteacoches.com marketplace ecosystem.",
+      "highlights": [
+        "Coordinated cross-functional teams across operations, UX, business units, and engineering squads.",
+        "Designed APIs, event-driven architectures, and database schemas for real-time inventory and search.",
+        "Integrated core banking services: consumer financing/loans, card payments, vehicle insurance, and automated risk scoring.",
+        "Integrated a dedicated dealer CRM for continuous car stock synchronization."
+      ]
+    },
+    {
+      "name": "Tiendeo.com",
+      "position": "Senior Web Product Manager",
+      "url": "https://www.tiendeo.com",
+      "startDate": "2021-05-01",
+      "endDate": "2022-12-31",
+      "summary": "End-to-end delivery of the bcnmarket / bonusconsum platform for Barcelona City Council.",
+      "highlights": [
+        "Delivered the marketplace platform on time in under one year.",
+        "Processed 500,000+ consumer transactions within 3 months during municipal consumption campaigns.",
+        "Designed a scalable, cloud-based architecture ensuring high availability and peak performance."
+      ]
+    },
+    {
+      "name": "Tiendeo.com",
+      "position": "Technical Customer Success",
+      "url": "https://www.tiendeo.com",
+      "startDate": "2020-04-01",
+      "endDate": "2021-05-01",
+      "summary": "Technical liaison between tier-1 enterprise retail clients and development squads, managing complex technical onboarding and SLAs."
+    },
+    {
+      "name": "Tiendeo.com",
+      "position": "Product Manager – UX Web & APP",
+      "url": "https://www.tiendeo.com",
+      "startDate": "2020-01-01",
+      "endDate": "2020-08-31",
+      "summary": "Supervised all UI/UX related platform developments and successfully launched Tiendeo's cashback feature."
+    },
+    {
+      "name": "Tiendeo.com",
+      "position": "Junior Product Manager – Mobile APPs",
+      "url": "https://www.tiendeo.com",
+      "startDate": "2018-05-01",
+      "endDate": "2020-01-01",
+      "summary": "Drove the end-to-end development and rebuild of the Tiendeo Mobile App on iOS and Android.",
+      "highlights": [
+        "Led product lifecycle from requirement scoping into user stories to sprint planning and release.",
+        "Maintained a sustained 4.5-star user rating across App Store and Google Play."
+      ]
+    },
+    {
+      "name": "Tiendeo.com",
+      "position": "Data Business Analyst – Python / Jupyter",
+      "url": "https://www.tiendeo.com",
+      "startDate": "2017-07-01",
+      "endDate": "2018-05-01",
+      "summary": "Automated reporting pipelines using Python, developing a dynamic Google Slides and Sheets generator that cut reporting time by 80%."
+    },
+    {
+      "name": "Tiendeo.com",
+      "position": "Technical SEO Specialist",
+      "url": "https://www.tiendeo.com",
+      "startDate": "2015-09-01",
+      "endDate": "2016-07-01",
+      "summary": "Managed technical search engine optimization, indexing, and architecture across international domains."
+    }
+  ],
+  "education": [
+    {
+      "institution": "BSM - Universitat Pompeu Fabra (UPF)",
+      "url": "https://xnet-x.net/posgrado-tecnopolitica-simona-levi/",
+      "area": "Technopolitics and Rights in the Digital Era",
+      "studyType": "Postgraduate Degree",
+      "endDate": "2019-06-30"
+    },
+    {
+      "institution": "ETSEIB - Universitat Politècnica de Catalunya (UPC)",
+      "url": "https://www.upc.edu/ca/graus/enginyeria-en-tecnologies-industrials-barcelona-etseib",
+      "area": "Industrial Engineering",
+      "studyType": "Bachelor of Science",
+      "endDate": "2017-07-31",
+      "courses": [
+        "Final Degree Project: Python Web Analytics Tool (upcommons.upc.edu/handle/2117/107227)",
+        "ERASMUS+ Exchange: Università degli Studi di Roma Tor Vergata (2015-2016)"
+      ]
+    },
+    {
+      "institution": "Real Academia de Ciencias Exactas, Físicas y Naturales",
+      "url": "http://www.estalmat.org/estalmat/",
+      "area": "Stimulation of Mathematical Talent",
+      "studyType": "ESTALMAT Program",
+      "startDate": "2007-01-01",
+      "endDate": "2009-01-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "3rd Place - European Championship",
+      "date": "2003-01-01",
+      "awarder": "Real Federación Española de Patinaje",
+      "summary": "Earned multiple national and international roller skating awards, achieving 3rd place in the European championship."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Product Management",
+      "level": "Master",
+      "keywords": ["API Design", "Microservices", "Event-driven Systems", "BPMN", "Scrum", "Kanban", "User Stories", "Cross-functional Leadership"]
+    },
+    {
+      "name": "Fintech & Financial Integrations",
+      "level": "Master",
+      "keywords": ["Checkout Solutions", "GlobalPayments", "Consumer Financing / Loans", "Cards Integrations", "Insurance Engines", "Risk Systems"]
+    },
+    {
+      "name": "Python & Backend Development",
+      "level": "Expert",
+      "keywords": ["Python 3.10+", "Flask", "FastAPI", "Pandas", "PyPI Packaging", "Jupyter", "AsyncIO", "Cursor / Copilot"]
+    },
+    {
+      "name": "Cloud Ecosystems & Databases",
+      "level": "Advanced",
+      "keywords": ["Google Cloud Platform", "AWS", "Cloud Functions Gen2", "AWS Lambda", "SNS", "EventBridge", "Supabase", "PostgreSQL", "Google Datastore (NoSQL)"]
+    },
+    {
+      "name": "Mobile & Analytics",
+      "level": "Advanced",
+      "keywords": ["Firebase Notifications", "Geofences", "DeepLink", "Google Data Studio", "Technical SEO"]
+    },
+    {
+      "name": "AI & Computer Vision",
+      "level": "Advanced",
+      "keywords": ["YOLOv8", "Ultralytics", "EasyOCR", "OpenCV", "PyTorch", "Prompt Engineering"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Facilitea Checkouts (CaixaBank Tech)",
+      "description": "Checkout and payment platform evolution within the Facilitea banking ecosystem.",
+      "url": "https://www.caixabanktech.com",
+      "highlights": [
+        "Technical analysis and architectural design of checkout and payment solutions",
+        "Integration alignment with core banking infrastructure and security standards"
+      ],
+      "keywords": ["Fintech", "Checkout", "Payments", "GlobalPayments", "Banking"]
+    },
+    {
+      "name": "faciliteacoches.com (CaixaBank Tech)",
+      "description": "Car marketplace ecosystem connecting car dealers, CRM stock sync, consumer loans, card payments, and insurance.",
+      "url": "https://faciliteacoches.com",
+      "highlights": ["API, event-driven, and database architecture", "Integrated banking services (financing, risk, insurance, payments)"],
+      "keywords": ["Marketplace", "Fintech", "Microservices", "APIs", "Event-Driven", "Banking"]
+    },
+    {
+      "name": "bcnmarket / bonusconsum",
+      "description": "Municipal commerce voucher and marketplace platform for Barcelona City Council.",
+      "url": "https://ajuntament.barcelona.cat/premsa/2021/10/04/barcelona-llanca-280-000-bonus-consum-per-potenciar-el-consum-local-a-traves-de-bcnmarket-barcelona/",
+      "highlights": ["Delivered within 1 year", "Processed 500,000+ consumer transactions in 3 months with high availability"],
+      "keywords": ["High Availability", "Cloud Architecture", "E-Commerce", "Public Sector"]
+    },
+    {
+      "name": "google-api-support",
+      "description": "Open-source Python library on PyPI simplifying Google Sheets, Slides, Drive, and Storage APIs with pandas integration.",
+      "url": "https://github.com/vperezb/google-api-support",
+      "highlights": ["Published on PyPI (`pip install google-api-support`)", "Automates complex multi-slide presentation generation and two-way sheet sync"],
+      "keywords": ["Python", "Google APIs", "Pandas", "PyPI", "Open Source"]
+    },
+    {
+      "name": "libripolis.com",
+      "description": "Platform to ease book lending between friends and communities, featuring AI book detection via bibliodetect.",
+      "url": "https://es.libripolis.com/",
+      "highlights": ["AI book spine recognition with YOLOv8 and EasyOCR", "Community book tracking"],
+      "keywords": ["AI", "YOLOv8", "EasyOCR", "Python", "Community Platform"]
+    },
+    {
+      "name": "aws-ip-change-tracker",
+      "description": "Hybrid event-driven + scheduled architecture tracking global AWS IP modifications into Supabase PostgreSQL with native CIDR indexing.",
+      "url": "https://github.com/vperezb/aws-ip-change-tracker",
+      "highlights": ["SNS push combined with 48h EventBridge sweep", "Postgres CIDR types & GiST index for instant subnet lookups"],
+      "keywords": ["AWS Lambda", "SNS", "EventBridge", "Supabase", "PostgreSQL", "Networking"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Catalan",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Basic proficiency"
+    }
+  ]
+}

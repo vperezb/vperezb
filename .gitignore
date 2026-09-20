@@ -1,0 +1,6 @@
+# Ignore all private folder contents
+/private/
+
+# Python
+__pycache__/
+*.pyc

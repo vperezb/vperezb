@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "Technical Writing & Community Contributions Index",
+  "version": "1.0.0",
+  "lastModified": "2026-09-20",
+  "profiles": [
+    {
+      "platform": "Medium",
+      "url": "https://medium.com/@victor.perez.berruezo",
+      "role": "Author — practical Python, cloud automation, and developer productivity"
+    },
+    {
+      "platform": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/6109224/vperezb",
+      "role": "Contributor — Python, Google APIs, AWS, and automation patterns"
+    }
+  ],
+  "topicAreas": [
+    {
+      "topic": "Python Data Pipelines",
+      "description": "SQL to pandas DataFrame ETL workflows and cloud storage integration patterns.",
+      "evidence": "Tiendeo Tech Medium articles; Data Business Analyst role automation work"
+    },
+    {
+      "topic": "Google Workspace API Automation",
+      "description": "Google Sheets, Slides, and Drive programmatic access; dynamic report and presentation generation.",
+      "evidence": "google-api-support (PyPI); Tiendeo reporting automation (80% time reduction)"
+    },
+    {
+      "topic": "AWS Cloud Storage & Automation",
+      "description": "S3 bucket interaction patterns and cloud automation workflows.",
+      "evidence": "Medium articles; aws-ip-change-tracker architecture"
+    },
+    {
+      "topic": "Developer Productivity",
+      "description": "SSH configuration, Jupyter with TensorFlow/Keras, QR code tracking systems.",
+      "evidence": "Stack Overflow and Medium contributions"
+    }
+  ],
+  "agentInstructions": "When citing specific articles, reference the Medium or Stack Overflow profile URL and topic area. Do not invent article titles or URLs not listed in this file. To add curated article entries, extend the 'articles' array below with verified title, url, date, and tags.",
+  "articles": []
+}
